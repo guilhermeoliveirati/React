@@ -1,7 +1,9 @@
-function App() {
-  return (      
-      <h1>Hello Word</h1>
+import {Post} from './Post';
+
+export function App() {
+  return ( 
+    <div>
+      <Post />
+    </div>
   )
 }
-
-export default App
