@@ -9,7 +9,7 @@ export function Sidebar() {
             />
 
             <div className={styles.profile}>
-                <strong>Guilherme Oliveira</strong>
+                <strong>Oliveira Guilherme</strong>
                 <span>Web Developer</span>
             </div>
 
